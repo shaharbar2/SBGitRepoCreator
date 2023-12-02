@@ -39,7 +39,7 @@ namespace Shahar.Bar.Utils
         {
             RunCommand("git", "init", _repoPath);
             CreateFile(_repoPath, ".gitignore", GetGitIgnoreContent());
-            CreateFile(_repoPath, "README.md", GetReadMeContent(_nickName, "YourGitHubUserName", GetFirstPackageFolderName())); // Replace "YourGitHubUserName" with actual username
+            CreateFile(_repoPath, "README.md", GetReadMeContent(_repoName, _organization, GetFirstPackageFolderName()));
             RunCommand("git", "checkout -b main", _repoPath);
             RunCommand("git", "add .", _repoPath);
             RunCommand("git", "commit -m \"Initial commit\"", _repoPath);
