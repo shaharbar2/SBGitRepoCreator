@@ -16,7 +16,7 @@ Will be used to create upm packages
 ## Installation
 ![OpenUPM](https://img.shields.io/badge/UPM-1.0.0-blue.svg)
 ![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/shaharbar2/SBGitRepoCreator?label=latest%20release)
-- using OpenUPM: https://openupm.com/packages/com.sb.package-maker/
+- using OpenUPM: https://openupm.com/packages/com.sb.git-repo-creator/
 - using git:
 
   Add the following line to the `dependencies` section of your project's `manifest.json` file:
