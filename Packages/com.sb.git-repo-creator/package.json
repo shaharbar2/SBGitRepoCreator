@@ -1,0 +1,8 @@
+{
+  "name": "com.sb.git-repo-creator",
+  "version": "1.0.0",
+  "displayName": "Git Repo Creator",
+  "description": "Craeting Git Repo",
+  "unity": "2020.1",
+  "dependencies": {}
+}
