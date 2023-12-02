@@ -11,8 +11,9 @@
 
 # SBGitRepoCreator
 
-Will be used to create upm packages
+Will be used to create new repos
 ![img.png](img.png)
+
 ## Installation
 ![OpenUPM](https://img.shields.io/badge/UPM-1.0.0-blue.svg)
 ![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/shaharbar2/SBGitRepoCreator?label=latest%20release)

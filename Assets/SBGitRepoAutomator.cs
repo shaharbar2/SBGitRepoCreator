@@ -121,8 +121,9 @@ namespace Shahar.Bar.Utils
 
 # {repoName}
 
-Will be used to create upm packages
+Will be used to {_nickName}
 ![img.png](img.png)
+
 ## Installation
 ![OpenUPM](https://img.shields.io/badge/UPM-1.0.0-blue.svg)
 ![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/{userName}/{repoName}?label=latest%20release)
