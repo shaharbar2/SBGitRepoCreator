@@ -28,8 +28,8 @@ Will be used to create upm packages
 ## How to Use
 
 ## Requirements
--Unity 2020.1 or higher.
--The tool must be placed within the Unity Editor project.
+- Unity 2020.1 or higher.
+- The tool must be placed within the Unity Editor project.
 
 ## Contributions
 For improvements or bug reports, please reach out to the maintainer at `https: //github.com/shaharbar2/SBGitRepoCreator`.
